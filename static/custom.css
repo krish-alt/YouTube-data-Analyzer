@@ -1,0 +1,18 @@
+
+.card-body, .card {
+  height: 100%;
+  /* background-color: black; */
+  color: grey;
+}
+
+/* .navbar, .navbar-brand{
+  color: black;
+} */
+table {
+  border: transparent;
+  text-align: center;
+}
+
+th, td {
+  padding: 2%;
+}
